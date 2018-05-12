@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9680
     wikipedia: http://de.wikipedia.org/wiki/Waldemar_Bonsels
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38650#WartalunDer-Niedergang-eines-Geschlechts
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-01-23'
 gutenberg_type: Text
